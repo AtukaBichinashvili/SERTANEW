@@ -1,11 +1,21 @@
-<div align="center">
+# Serta Georgia - Premium Mattress Store 🛌
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+ეს არის Serta-ს ოფიციალური სტილის პრემიუმ ონლაინ მაღაზია საქართველოში.
 
-  <h1>Built with AI Studio</h2>
+## 🚀 ფუნქციონალი
+- **Zoomer UI სტილის დიზაინი**: თანამედროვე და სუფთა ინტერფეისი.
+- **Supabase Integration**: პროდუქტების და სლაიდერის დინამიური მართვა.
+- **Bilingual**: სრული KA/EN მხარდაჭერა.
+- **Admin Dashboard**: სპეციალური პანელი საიტის მართვისთვის.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🛠️ ინსტალაცია
+პროექტი იყენებს **Native ESM**-ს, რაც ნიშნავს რომ არ სჭირდება რთული Build პროცესი.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+1. დააკლონირეთ რეპოზიტორია:
+   ```bash
+   git clone https://github.com/AtukaBichinashvili/Serta.git
+   ```
+2. გახსენით `index.html` პირდაპირ ბრაუზერში ან გამოიყენეთ ნებისმიერი სტატიკური სერვერი.
 
-</div>
+---
+© 2024 Serta Georgia.
